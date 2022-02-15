@@ -1,7 +1,8 @@
 ### Olá! Eu sou o paulinho rozendo 😉🤘
 
-- 👨🏽‍🎓 Atualmente estou cursando Ciências de Dados pela Fatec - SP 
+- 👨🏽‍🎓 Cursando Ciências de Dados pela Fatec - SP 
 - 👨‍💻 Concluí 2 bootcamps com aprendizado em Fullstack Development 
+- Estudando e construindo projetos constantemente
 - 👀 Estou em busca de um estágio e/ou trabalho na área de TI 
 - 🔗 Perfil no LinkedIn: https://www.linkedin.com/in/paulinhorozendo01dev/
 - 🤓 Piada para devs: Por que os astronautas usam linux? Res: Porque eles não podem abrir windows no espaço!🙄😅
